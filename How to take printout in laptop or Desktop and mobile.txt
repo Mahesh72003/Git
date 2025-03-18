@@ -1,0 +1,69 @@
+How to take printout in laptop or Desktop in 4 ways
+
+1st way by using wifi
+
+ step 1:- connect both the printer and laptop or Desktop to same wifi network
+ step 2:- change the print to [ HPAA2C37 (HP LaserJet Pro M329) ]
+ step 3:- take the print
+
+    how to set up a wifi in print
+
+	step 1:- swip down on printer screen and click on wifi / wireless symbol
+	step 2:- then click on setting symbol 
+	step 3:- click on wireless Settings
+	step 4:- click on wireless setup wizard click on yes
+	step 5:- select wifi name and enter the password click on done
+	step 6:- click on ok
+	step 7:- wait of a minute
+
+
+2nd way by using usb
+
+ step 1:- connect the usb to laptop or desktop and connect the print at back side of the print
+ step 2:- change the print to [ HP LaserJet Pro M329  ]
+ step 3:- take the print
+
+
+
+3rd way by using lan / ethernet cable
+
+ step 1:- connect the lan / ethernet cable to laptop or desktop and connect the print at back side of the print
+ step 2:- change the print to [ HP LaserJet Pro M329 PCL-6 (V4)  ]
+ step 3:- take the print
+
+
+4th way by using wifi direct(printer wifi)
+
+ step 1:- connect the laptop or desktop to printr wifi [ DIRECT-38-HP ] (wifi password:- 40018053 )
+ step 2:- change the print to [ HPAA2C37 (HP LaserJet Pro M329) ]
+ step 3:- take the print
+
+
+
+
+how to take printout from mobile 
+
+ step 1:- connect the mobile to printr wifi [ DIRECT-38-HP ] (wifi password:- 40018053 )
+ step 2:- share the file or picture  to HP Print Servic Plugin APP
+ step 3:- select Printer [ HPAA2C37 (HP LaserJet Pro M329) ]
+ step 4:- change the paper size to A4
+ setp 5:- click on print symbol on right top on the screen
+ 
+
+ if to print back to back 
+ 
+ step 1:- select the from 1-sided to 2-sided (after the range) then continue setp 5
+
+
+
+
+
+
+how to print from Chrome or Microsoft edge
+
+ step 1:- open the pdf in chrome then give Ctrl+p (click on print symbol on top of the right on the chrome or Microsoft edge )
+ step 2:- click on more settings select the change the paper size to A4
+ step 3:- for print on back to back click on Print on both side 
+ step 4:- change the print quality to 1200 dpi
+ step 5:- click on print
+	
